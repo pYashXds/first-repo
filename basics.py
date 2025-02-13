@@ -10,3 +10,7 @@ d = (1,2,3,4)
 e = {'one':1, 'two':2, 'three':3, 'four':4}
 
 print(type(a), " ", type(b), " ", type(c), " ", type(d), " ", type(e))
+
+
+for i in range(0,5):
+    print(i)

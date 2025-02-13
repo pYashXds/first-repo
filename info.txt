@@ -3,3 +3,4 @@ This is the first text file.
 Here I am going to add content of changes in .py file.
 
 1. "Sum opertions done."
+2. "Multiplication opertions done."

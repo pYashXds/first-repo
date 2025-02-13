@@ -14,3 +14,4 @@ print(type(a), " ", type(b), " ", type(c), " ", type(d), " ", type(e))
 
 for i in range(0,5):
     print(i)
+

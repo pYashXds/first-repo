@@ -1,3 +1,5 @@
+This is INFO FILE WHERE YOU CAN FIND ALL INFORMATION OF THIS PROJECT.
+
 This is the first text file.
 
 Here I am going to add content of changes in .py file.
@@ -10,3 +12,5 @@ Another branch "igris" created where python tutorial has been started.
 
 Now I have access of basics.py file.
 So as I given access to my basics.py now we can work together.
+
+
